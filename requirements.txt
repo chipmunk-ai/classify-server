@@ -1,0 +1,7 @@
+Flask
+Flask-HTTPAuth
+pandas
+numpy
+scikit-learn
+joblib
+load_dotenv
